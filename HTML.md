@@ -33,7 +33,7 @@ This line goes to inside of **< head>**.
 ### - Headings
 	<h1></h1> -> <h6></h6>
 - **Have six levels**. ( higher number = smaller headings )
-- Only ONE h1 should be used. 
+- Only ONE `h1` should be used. 
 
 ### - Line Break
 	<br>
@@ -65,19 +65,22 @@ Start with the < ul> tag and **wrap each item in a < li> list item element**.
 	> sms = phone number
 	
 Example
-
-	<a href="mailto:exia020130@gmail.com">Mail</a>
-
+```html
+<a href="mailto:exia020130@gmail.com">Mail</a>
+```
 
 ### Images
-	<img src="a image link">
+```html
+<img src="a image link">
+```
 - src for **source** (an attribute)
 
 ## Attributes
 
 **Attributes** are additional settings that we can customize an element. 
-
-	<element name="value">Content</element>
+```html
+<element name="value">Content</element>
+```
 
 ### Attributes in Image Tag 
 

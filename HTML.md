@@ -41,10 +41,13 @@ This line goes to inside of **< head>**.
 
 
 ### - Text Formatting
-	<b> = bold
-	<i> = italic
-	<u> = underline
-	<s> = strikethrough
+```html
+<b> = bold
+<i> = italic
+<u> = underline
+<s> = strikethrough
+```
+
 #### - How to use? 
 	qwerty <?>uiopas</?> dfghjk
 
